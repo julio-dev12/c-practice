@@ -1,0 +1,9 @@
+a.out
+*.o
+*.dSYM/
+.DS_Store
+hello
+calc
+FizzBuzz
+temp
+weight
