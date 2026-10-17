@@ -14,6 +14,7 @@ int main() {
   // generates a random number from 1 to 100
   int random_number = rand() % 100 + 1;
   
+  // while our guess is not equal to random number
   while (guess != random_number) {
     if (guess > random_number) {
       printf("Too high! try again: ");
