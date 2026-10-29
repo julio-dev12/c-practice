@@ -3,7 +3,6 @@ a.out
 *.dSYM/
 .DS_Store
 PrimeNumber
-pyramid
 array_stats
 PrimeNumber
 array_stats
